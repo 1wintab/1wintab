@@ -8,9 +8,10 @@
 - **Algorithms**: Data structures, complexity analysis, problem solving
 
 ## 🔭 Current Projects:
-- 🚀 Building a high-performance thread pool implementation
-- 🔍 Developing a memory allocation visualizer tool
-- 🤖 Experimenting with AI-assisted code generation
+- 📐 Developing a memory allocation visualizer tool
+- 📊 Comparing algorithm efficiency  
+- 🧪 Testing with different datasets  
+- ⚡ Optimizing code performance
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/wintabb) 
