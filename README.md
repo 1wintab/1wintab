@@ -21,9 +21,8 @@
 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=1wintab&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
