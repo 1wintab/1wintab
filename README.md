@@ -20,8 +20,9 @@
 
 # 💻 Tech Stack:
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![C++](https://img.shields.io/badge/C++-9e4c65?style=for-the-badge&logo=cplusplus&logoColor=)](https://github.com/1wintab/ParseTreeExplorer)
+[![C++](https://img.shields.io/badge/C%23-yellow?style=for-the-badge&logo=cplusplus&logoColor=)](https://github.com/1wintab/ParseTreeExplorer)
+[![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github)](https://github.com/1wintab/ParseTreeExplorer)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=1wintab&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
