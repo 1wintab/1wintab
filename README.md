@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a passionate C++ developer specializing in algorithms and system programming<br>🌱 Currently mastering multithreading and performance optimization techniques<br>💡 Fascinated by compiler design and low-level programming<br>⚡ Fun fact: I enjoy solving coding challenges in my free time
+🔭 I'm a passionate C++/C# developer specializing in algorithms and system programming<br>🌱 Currently mastering multithreading and performance optimization techniques<br>💡 Fascinated by compiler design and low-level programming<br>⚡ Fun fact: I enjoy solving coding challenges in my free time
 
 ## 🛠 Core Skills:
 - **C++**: OOP, STL, memory management, stack/queue algorithms  
