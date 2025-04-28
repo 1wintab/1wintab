@@ -10,6 +10,12 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmUxY3F0M2sycTZ1eGJhNG5iMXNqcjZzMXMyb2lxNjA5am10bGliZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" width="360px">
 
+## 🛠 Core Skills:
+- **C++**: OOP, STL, memory management, stack/queue algorithms  
+- **Automation**: Testing frameworks, Playwright (learning)  
+- **Tools**: Git, Windows CLI  
+- **Algorithms**: Data structures, complexity analysis, problem solving
+
 ## 🔭 Current Projects:
 - 📐 Developing a memory allocation visualizer tool
 - 📊 Comparing algorithm efficiency  
