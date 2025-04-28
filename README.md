@@ -1,3 +1,6 @@
+# 💫 About Me:
+🔭 I'm a passionate C++/C# developer specializing in algorithms and system programming<br>
+
 # 💻 Tech Stack:
 
 [![C++](https://img.shields.io/badge/C++-9e4c65?style=for-the-badge&logo=cplusplus&logoColor=)](https://github.com/1wintab/ParseTreeExplorer)
@@ -11,12 +14,6 @@
 - **Automation**: Testing frameworks, Playwright (learning)  
 - **Tools**: Git, Windows CLI  
 - **Algorithms**: Data structures, complexity analysis, problem solving
-
-# 💫 About Me:
-🔭 I'm a passionate C++/C# developer specializing in algorithms and system programming<br>
-🌱 Currently mastering multithreading and performance optimization techniques<br>
-💡 Fascinated by compiler design and low-level programming<br>
-⚡ Fun fact: I enjoy solving coding challenges in my free time
 
 ## 🔭 Current Projects:
 - 📐 Developing a memory allocation visualizer tool
