@@ -1,13 +1,22 @@
+# 💻 Tech Stack:
+
+[![C++](https://img.shields.io/badge/C++-9e4c65?style=for-the-badge&logo=cplusplus&logoColor=)](https://github.com/1wintab/ParseTreeExplorer)
+[![C++](https://img.shields.io/badge/C%23-yellow?style=for-the-badge&logo=cplusplus&logoColor=)](https://github.com/1wintab/ParseTreeExplorer)
+[![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github)](https://github.com/1wintab/ParseTreeExplorer)
+
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmUxY3F0M2sycTZ1eGJhNG5iMXNqcjZzMXMyb2lxNjA5am10bGliZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" width="480px">
 
-# 💫 About Me:
-🔭 I'm a passionate C++/C# developer specializing in algorithms and system programming<br>🌱 Currently mastering multithreading and performance optimization techniques<br>💡 Fascinated by compiler design and low-level programming<br>⚡ Fun fact: I enjoy solving coding challenges in my free time
-
-## 🛠 Core Skills:
+# 🛠 Core Skills:
 - **C++**: OOP, STL, memory management, stack/queue algorithms  
 - **Automation**: Testing frameworks, Playwright (learning)  
 - **Tools**: Git, Windows CLI  
 - **Algorithms**: Data structures, complexity analysis, problem solving
+
+# 💫 About Me:
+🔭 I'm a passionate C++/C# developer specializing in algorithms and system programming<br>
+🌱 Currently mastering multithreading and performance optimization techniques<br>
+💡 Fascinated by compiler design and low-level programming<br>
+⚡ Fun fact: I enjoy solving coding challenges in my free time
 
 ## 🔭 Current Projects:
 - 📐 Developing a memory allocation visualizer tool
@@ -20,11 +29,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/wintabb)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:4)
 
-# 💻 Tech Stack:
-
-[![C++](https://img.shields.io/badge/C++-9e4c65?style=for-the-badge&logo=cplusplus&logoColor=)](https://github.com/1wintab/ParseTreeExplorer)
-[![C++](https://img.shields.io/badge/C%23-yellow?style=for-the-badge&logo=cplusplus&logoColor=)](https://github.com/1wintab/ParseTreeExplorer)
-[![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github)](https://github.com/1wintab/ParseTreeExplorer)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=1wintab&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
