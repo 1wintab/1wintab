@@ -1,3 +1,10 @@
+
+# 💻 Tech Stack:
+
+[![C++](https://img.shields.io/badge/C++-9e4c65?style=for-the-badge&logo=cplusplus&logoColor=)](https://github.com/1wintab/ParseTreeExplorer)
+[![C++](https://img.shields.io/badge/C%23-yellow?style=for-the-badge&logo=cplusplus&logoColor=)](https://github.com/1wintab/ParseTreeExplorer)
+[![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github)](https://github.com/1wintab/ParseTreeExplorer)
+
 # 💫 About Me:
 🔭 I'm a passionate C++/C# developer specializing in algorithms and system programming<br>🌱 Currently mastering multithreading and performance optimization techniques<br>💡 Fascinated by compiler design and low-level programming<br>⚡ Fun fact: I enjoy solving coding challenges in my free time
 
@@ -17,12 +24,6 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/wintabb) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/wintabb)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:4)
-
-# 💻 Tech Stack:
-
-[![C++](https://img.shields.io/badge/C++-9e4c65?style=for-the-badge&logo=cplusplus&logoColor=)](https://github.com/1wintab/ParseTreeExplorer)
-[![C++](https://img.shields.io/badge/C%23-yellow?style=for-the-badge&logo=cplusplus&logoColor=)](https://github.com/1wintab/ParseTreeExplorer)
-[![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github)](https://github.com/1wintab/ParseTreeExplorer)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=1wintab&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
