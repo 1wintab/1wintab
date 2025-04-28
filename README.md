@@ -1,3 +1,5 @@
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmUxY3F0M2sycTZ1eGJhNG5iMXNqcjZzMXMyb2lxNjA5am10bGliZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" width="600px">
+
 # 💫 About Me:
 🔭 I'm a passionate C++/C# developer specializing in algorithms and system programming<br>🌱 Currently mastering multithreading and performance optimization techniques<br>💡 Fascinated by compiler design and low-level programming<br>⚡ Fun fact: I enjoy solving coding challenges in my free time
 
