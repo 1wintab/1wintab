@@ -8,7 +8,7 @@
 [![C++](https://img.shields.io/badge/C%23-yellow?style=for-the-badge&logo=cplusplus&logoColor=)](https://github.com/1wintab/ParseTreeExplorer)
 [![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github)](https://github.com/1wintab/ParseTreeExplorer)
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmUxY3F0M2sycTZ1eGJhNG5iMXNqcjZzMXMyb2lxNjA5am10bGliZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" width="360px">
+[<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmUxY3F0M2sycTZ1eGJhNG5iMXNqcjZzMXMyb2lxNjA5am10bGliZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" width="360px">](https://github.com/1wintab/)
 
 ## 🛠 Core Skills:
 - **C++**: OOP, STL, memory management, stack/queue algorithms  
